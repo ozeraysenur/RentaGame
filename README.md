@@ -83,17 +83,6 @@ RentaGame is a comprehensive software engineering project designed to deliver a 
 
 ---
 
-## 📂 **Repository Structure**
-
-```
-RentaGame/
-├── docs/                     # Design and documentation files
-├── vp_files/                 # Visual Paradigm project files
-├── diagrams/                 # UML diagrams (class, sequence, activity, statechart)
-├── README.md                 # Project documentation
-```
-
----
 
 ## 📊 **Example Scenarios**
 
@@ -129,11 +118,3 @@ RentaGame/
 
 ---
 
-## 🤝 **Contributions**
-
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
-
----
